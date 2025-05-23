@@ -2,7 +2,8 @@ package shape
 
 import (
 	"fmt"
-	"shapes/shape/greet"
+
+	"github.com/JitenPalaparthi/volkswagen-golang-batch3-shapes/shape/greet"
 )
 
 type IShape interface {
